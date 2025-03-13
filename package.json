@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "mjml-react": "^2.0.8"
+    "mjml-react": "^2.0.8",
+    "react-scripts": "^5.0.1"
   }
 }
